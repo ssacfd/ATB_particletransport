@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use the case files, please cite it as below."
+authors:
+- family-names: "Janke"
+  given-names: "David"
+- family-names: "Swaminathan"
+  given-names: "Senthilathiban"
+- family-names: "Hempel"
+  given-names: "Sabrina"
+- family-names: "Kasper"
+  given-names: "Robert"
+- family-names: "Amon"
+  given-names: "Thomas"
+title: "Particulate matter dispersion modeling in agricultural applications: Investigation of a transient open source solver"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2021-09-27
+url: "https://github.com/ssacfd/ATB_particletransport"
