@@ -11,7 +11,7 @@ authors:
   given-names: "Robert"
 - family-names: "Amon"
   given-names: "Thomas"
-title: "Particulate matter dispersion modeling in agricultural applications: Investigation of a transient open source solver"
+title: "Sample Case files for the Particulate matter dispersion modeling in agricultural applications"
 version: 1.0.0
 doi: 10.5281/zenodo.1234
 date-released: 2021-09-27
